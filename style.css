@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #797676;
+}
+
+header {
+    background-color: #011929;
+    color: white;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #151a1e;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #393939;
+}
+
+.story-container{
+    display: contents;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: larger;
+     font: optional;
+     background: #011929;
+
+}
